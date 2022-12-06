@@ -14,7 +14,7 @@ The refactoring should consider;
 
  The following image shows the web application's appearance:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](.\assets\images\01-html-css-git-homework-demo.png)
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/110208272/205833562-4739ac86-5a9d-4fb7-934c-e076222f721d.png)
 
  ## Installation
 
@@ -22,7 +22,7 @@ The refactoring should consider;
 
  ## Usage
 
- N/A
+ //To do - link to deployed application
 
  ## Credits
 
@@ -31,6 +31,7 @@ The refactoring should consider;
  ## License
 
  N/A
+
 
 
 
