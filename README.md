@@ -14,7 +14,7 @@ The refactoring should consider;
 
  The following image shows the web application's appearance:
 
-![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/110208272/205833562-4739ac86-5a9d-4fb7-934c-e076222f721d.png)
+![Horiseon webpage visual](https://user-images.githubusercontent.com/110208272/205833562-4739ac86-5a9d-4fb7-934c-e076222f721d.png)
 
  ## Installation
 
@@ -22,7 +22,7 @@ The refactoring should consider;
 
  ## Usage
 
- //To do - link to deployed application
+ [Link to deployed application](https://wolldog.github.io/horiseon-code-refactor/)
 
  ## Credits
 
